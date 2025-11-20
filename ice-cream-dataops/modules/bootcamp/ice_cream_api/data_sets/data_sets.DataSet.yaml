@@ -1,0 +1,5 @@
+name: Ice Cream Factory Source Data
+externalId: {{ icapi_ds_external_id }}
+description: Source data for Ice Cream API
+
+
